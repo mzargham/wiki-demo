@@ -1,10 +1,10 @@
 # Omnipedia
 
-Scaling production, evalution, and refinement of frontier knowledge.
+Scaling production, evalution, and refinement of frontier knowledge since MMXXIIII.
 
 ![](omnipedia.jpeg)
 
-The omnipedia is a wiki for frontier knowledge which uses [storm](https://github.com/stanford-oval/storm/) to create *just-in-time* articles in response to searches. Articles in omnipedia is an untrustworthy extension of wikipedia focused on knowledge that does not meet wikipedia's rigorous standards for content. To avoid risks of confusion omnipedia articles have colored backdrops.
+The omnipedia is a wiki for frontier knowledge which uses a mix of LLM (such as [storm](https://github.com/stanford-oval/storm/)) and editor input to create *just-in-time* articles in response to searches. Articles in omnipedia include incomplete, obscure, and unverified summaries of topics not covered by more reliable reference works. These are clustered and improved over time. To minimize the risk of confusion with reliable sources, omnipedia articles have colored backdrops.
 
 - **Red:** newly AI generated pages start in the red category indicating that they should be targeted for editing, rather than for reading.
 - **Red-to-Yellow:** Red pages are periodically evaluated by a battery of classifiers targeting various requirement derived from the wikipedia style guides. Articles that pass the automated tests are recategorized as yellow.
@@ -17,7 +17,5 @@ The omnipedia is a wiki for frontier knowledge which uses [storm](https://github
 
 Omnipedia is BOTH a fork and a mirror of wikipedia
 
-- Mirror the canonical content and treat it as canonical (and defer to wikipedia governance of canonical content)
-- fork the software and social protocols to support the frontier knowledge (retaining compatitability such that article provenance is legible/interoperable with wikipedia)
-
-see: https://en.wikipedia.org/wiki/Wikipedia:FAQ/Forking
+- Mirroring or transcluding canonical content and treating it as canonical (defering to wikipedia editorial process and governance of canonical content)
+- [Forking]([url](https://en.wikipedia.org/wiki/Wikipedia:FAQ/Forking)) the software and social protocols to support frontier knowledge (retaining compatitability so that edit histories and other article provenance are legible/interoperable with wikipedia)
