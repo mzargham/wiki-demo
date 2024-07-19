@@ -22,13 +22,15 @@
 - [ ] User Archetypes / Stories
 - [ ] Wireframes
 - [ ] Prototype Evaluators
-  - [ ] Review wikipedia style guides
-  - [ ] Extract / Define Evaluation Criteria for prototype
-  - [ ] Implement Evalutor
+  - [x] Review wikipedia style guides
+  - [/] Extract / Define Evaluation Criteria for prototype
+  - [ ] Implement Evaluator
   - [ ] Test Evaluator
+- [ ] article generation model on hugging
 - [ ] Demo Day Presentation
-  - [ ] architecture slide
-  - [ ] 4 color problem (calm tech approved logo)
+  - [x] architecture slide
+  - [x] 4 color problem (calm tech approved logo)
+  - [ ] prep code demo
 - [ ] 2 Pager
 
 ## Forming (Post AI Palace)
@@ -39,7 +41,12 @@
 - [x] Make contact with Wikipedians
   - [x] and the Wikimedia Foundation
 - [ ] Product Architecture / Documentation
-- [ ] (Fork, Mirror) instanced 
+- [ ] (Fork, Mirror) instanced
+- [ ] Host a demo on hugging face
+  - [ ] article generation model (red 1)
+  - [ ] article decomposition model
+  - [ ] requirements gen/assignment model 
+  - [ ] requirements evaluation model (r/y 1) 
 - [ ] Find Contributors
   - [ ] experienced wikipedians
   - [ ] AI researchers
