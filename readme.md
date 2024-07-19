@@ -13,3 +13,11 @@ The omnipedia is a wiki for frontier knowledge which uses [storm](https://github
 - **Green:** Green articles are vetted frontier knowledge, approaching the boundary of (but not necessarily satisfying) the criteria for wikipedia inclusion. Users are encourage to treat green articles as emerging knowledge.
 - **Green-to-White:** Omnipedia has no say in whether green articles get included in wikipedia but the Omnipedia system is designed to facilitate transfer of control of its pages to wikipedia should wikipedia moderators deem that transfer desirable.
 
+## Technical Approach
+
+Omnipedia is BOTH a fork and a mirror of wikipedia
+
+- Mirror the canonical content and treat it as canonical (and defer to wikipedia governance of canonical content)
+- fork the software and social protocols to support the frontier knowledge (retaining compatitability such that article provenance is legible/interoperable with wikipedia)
+
+see: https://en.wikipedia.org/wiki/Wikipedia:FAQ/Forking
