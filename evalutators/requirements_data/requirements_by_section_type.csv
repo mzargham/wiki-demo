@@ -1,0 +1,10 @@
+requirement_name,Lead section,Body sections,Infobox,References,See also,Further reading,External links,Categories,Notes
+Title format,1,1,0,0,0,0,0,0,0
+Consistency,1,1,1,1,1,1,1,1,1
+References included,1,1,0,1,0,0,0,0,0
+Lead summary,1,0,0,0,0,0,0,0,0
+Infobox usage,0,0,1,0,0,0,0,0,0
+External links relevance,0,0,0,0,0,0,1,0,0
+Further reading selectivity,0,0,0,0,0,1,0,0,0
+See also relevance,0,0,0,0,1,0,0,0,0
+Category placement,0,0,0,0,0,0,0,1,0
