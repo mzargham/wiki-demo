@@ -33,17 +33,19 @@
 
 ## Forming (Post AI Palace)
 
-- [ ] Identify Organizational home / Fiscal Sponsor
 - [ ] Make contact with Storm Team
-- [ ] Make contact with Wikimedia Foundation
+  - [ ] Connect Storm to 🤗
+- [ ] [ ] Identify Organizational home / Fiscal Sponsor
+- [x] Make contact with Wikipedians
+  - [x] and the Wikimedia Foundation
 - [ ] Product Architecture / Documentation
 - [ ] (Fork, Mirror) instanced 
 - [ ] Find Contributors
   - [ ] experienced wikipedians
-  - [ ] ai researchers
+  - [ ] AI researchers
   - [ ] full stack developers
   - [ ] library scientists
 - [ ] Create Project Infrastructure
-  - [ ] Git Repo
+  - [x] Git Repo
   - [ ] Communication channels
   - [ ] Contribution guidelines
