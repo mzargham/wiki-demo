@@ -12,32 +12,29 @@
   - [x] Generation (OpenAI)
 - [ ] Article Generation Lifecycle demo
   - [x] Storm Based Article Generation
-  - [ ] Run Evalutator on Article (that fails)
-  - [ ] Edit Demo Article
-  - [ ] Run Evalutator on Article (that passes)
-  - [ ] Do /Document Manual Review (that fails)
-  - [ ] Edit Demo Article (again)
-  - [ ] Do /Document Manual Review (that passes)
+  - [x] Run Evalutator on Article
+  - [x] Collect detailed feedback by section 
 - [x] Secure a domain
-- [ ] User Archetypes / Stories
-- [ ] Wireframes
-- [ ] Prototype Evaluators
+- [/] User Archetypes / Stories
+- [/] Wireframes
+- [x] Prototype Evaluators
   - [x] Review wikipedia style guides
-  - [/] Extract / Define Evaluation Criteria for prototype
-  - [ ] Implement Evaluator
-  - [ ] Test Evaluator
-- [ ] article generation model on hugging
+  - [x] Extract / Define Evaluation Criteria for prototype
+  - [x] Implement Evaluator
+  - [x] Test Evaluator
+- [x] article generation model on hugging
 - [ ] Demo Day Presentation
   - [x] architecture slide
   - [x] 4 color problem (calm tech approved logo)
-  - [ ] prep code demo
+  - [x] prep code demo
+  - [ ] deliver presentation
 - [ ] 2 Pager
 
 ## Forming (Post AI Palace)
 
 - [ ] Make contact with Storm Team
   - [ ] Connect Storm to 🤗
-- [ ] [ ] Identify Organizational home / Fiscal Sponsor
+- [ ] Identify Organizational home / Fiscal Sponsor
 - [x] Make contact with Wikipedians
   - [x] and the Wikimedia Foundation
 - [ ] Product Architecture / Documentation
