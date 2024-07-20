@@ -5,7 +5,7 @@
 - [x] Make checklist
 - [x] Make Memes
   - [x] Copycenter
-  - [x] b4 
+  - [x] b4
 - [x] High Level Architecture
 - [x] Get LM language model APIs working
   - [x] Retreval (you.com)
@@ -13,7 +13,7 @@
 - [ ] Article Generation Lifecycle demo
   - [x] Storm Based Article Generation
   - [x] Run Evalutator on Article
-  - [x] Collect detailed feedback by section 
+  - [x] Collect detailed feedback by section
 - [x] Secure a domain
 - [/] User Archetypes / Stories
 - [/] Wireframes
@@ -42,8 +42,8 @@
 - [ ] Host a demo on hugging face
   - [ ] article generation model (red 1)
   - [ ] article decomposition model
-  - [ ] requirements gen/assignment model 
-  - [ ] requirements evaluation model (r/y 1) 
+  - [ ] requirements gen/assignment model
+  - [ ] requirements evaluation model (r/y 1)
 - [ ] Find Contributors
   - [ ] experienced wikipedians
   - [ ] AI researchers
