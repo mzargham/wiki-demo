@@ -10,7 +10,7 @@
 - [x] Get LM language model APIs working
   - [x] Retreval (you.com)
   - [x] Generation (OpenAI)
-- [ ] Article Generation Lifecycle demo
+- [x] Article Generation and Evaluation demo
   - [x] Storm Based Article Generation
   - [x] Run Evalutator on Article
   - [x] Collect detailed feedback by section
