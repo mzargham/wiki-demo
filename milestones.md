@@ -15,8 +15,8 @@
   - [x] Run Evalutator on Article
   - [x] Collect detailed feedback by section
 - [x] Secure a domain
-- [/] User Archetypes / Stories
-- [/] Wireframes
+- [x] User Archetypes / Stories
+- [x] Wireframes
 - [x] Prototype Evaluators
   - [x] Review wikipedia style guides
   - [x] Extract / Define Evaluation Criteria for prototype
