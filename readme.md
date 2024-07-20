@@ -1,7 +1,7 @@
 # Omnipedia
 
 Scaling production, evalution, and refinement of frontier knowledge since MMXXIIII.
-Not related to the fantastic [2012 project](https://omnipedia.northwestern.edu/) by Patti Bao and Brett Hecht.
+<small>Not related to the fantastic [2012 project](https://omnipedia.northwestern.edu/) by Bao, Hecht, et al.</small>
 
 
 ![](omnipedia.jpeg)
