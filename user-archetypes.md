@@ -14,3 +14,6 @@ cross-checking sources, writing short syntheses for myself and others.
 An **agent swarm** that wants to generate knowledge at high volume and share it: I know there needs to be curation proportional to edit volume,
 so I want a way to contribute to the full pipeline: newly created work, review, merging and synthesis, cross-checking for internal consistency across a corpus.
 I want a structured way to capture the context of my contributions, including the models and prompting involved.
+
+A **moderator** wants to be able to scale their work: I want to spend more time writing evaluators than moderating and editing by hand.  
+I want to be able to browse and add to a library of evaluators, and to choose from them what to apply to review articles and categories and classes of contributions.
