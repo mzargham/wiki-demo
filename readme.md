@@ -2,6 +2,9 @@
 
 Scaling production, evalution, and refinement of frontier knowledge since MMXXIIII.
 
+(Unrelated to the fantastic [2012 project](https://omnipedia.northwestern.edu/) by Bao, Hecht, et al.)
+
+
 ![](omnipedia.jpeg)
 
 The omnipedia is a wiki for frontier knowledge which uses a mix of LLM (such as [storm](https://github.com/stanford-oval/storm/)) and editor input to create *just-in-time* articles in response to searches. Articles in omnipedia include incomplete, obscure, and unverified summaries of topics not covered by more reliable reference works. These are clustered and improved over time. To minimize the risk of confusion with reliable sources, omnipedia articles have colored backdrops.
